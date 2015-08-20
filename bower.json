@@ -1,0 +1,26 @@
+{
+  "name": "gettext-js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/WitchBird/gettext-js",
+  "authors": [
+    "Joshua I. Miller <unrtst@cpan.org>"
+  ],
+  "description": "Javascript Gettext - Javascript implementation of GNU Gettext API.",
+  "main": "lib/Gettext.js",
+  "keywords": [
+    "gettext"
+  ],
+  "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WitchBird/gettext-js.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo",
+    "test",
+    "tests"
+  ]
+}
