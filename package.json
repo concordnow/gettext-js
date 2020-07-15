@@ -1,0 +1,25 @@
+{
+  "name": "gettext",
+  "version": "0.2.1",
+  "description": "Javascript Gettext - Javascript implementation of GNU Gettext API.",
+  "main": "lib/Gettext.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concordnow/gettext-js.git"
+  },
+  "authors": [
+    "Joshua I. Miller <unrtst@cpan.org>"
+  ],
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/concordnow/gettext-js/issues"
+  },
+  "homepage": "https://github.com/concordnow/gettext-js#readme"
+}
