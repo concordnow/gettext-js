@@ -1,5 +1,5 @@
 {
-  "name": "gettext",
+  "name": "@concordnow/gettext",
   "version": "0.2.1",
   "description": "Javascript Gettext - Javascript implementation of GNU Gettext API.",
   "main": "lib/Gettext.js",
