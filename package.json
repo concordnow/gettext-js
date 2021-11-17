@@ -1,6 +1,6 @@
 {
   "name": "gettext",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Javascript Gettext - Javascript implementation of GNU Gettext API.",
   "main": "lib/Gettext.js",
   "directories": {
